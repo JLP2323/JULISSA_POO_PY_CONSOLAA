@@ -1,0 +1,18 @@
+[
+    {
+        "factura": 1,
+        "Fecha": "2024-04-27",
+        "cliente": "eduardo javier quinteros pacheco",
+        "subtotal": 100.0,
+        "descuento": 10.0,
+        "iva": 10.8,
+        "total": 100.8,
+        "detalle": [
+            {
+                "poducto": "mouse",
+                "precio": 2.0,
+                "cantidad": 50
+            }
+        ]
+    }
+]
